@@ -1,0 +1,16 @@
+{
+  "name": "fakestore-api-test",
+  "version": "1.0.0",
+  "description": "API test automation project using Node.js, Jest and Supertest with Fake Store API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Andrew Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  }
+}
